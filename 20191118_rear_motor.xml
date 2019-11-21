@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MCConfiguration>
+    <s_pid_ki>0.004</s_pid_ki>
+    <m_bldc_f_sw_min>3000</m_bldc_f_sw_min>
+    <hall_table__6>3</hall_table__6>
+    <p_pid_kd_filter>0.2</p_pid_kd_filter>
+    <foc_sample_high_current>0</foc_sample_high_current>
+    <foc_motor_flux_linkage>0.021412</foc_motor_flux_linkage>
+    <foc_encoder_ratio>7</foc_encoder_ratio>
+    <l_battery_cut_end>37.2</l_battery_cut_end>
+    <foc_sample_v0_v7>0</foc_sample_v0_v7>
+    <foc_sat_comp>0</foc_sat_comp>
+    <foc_motor_r>0.1799</foc_motor_r>
+    <foc_sl_openloop_hyst>0.1</foc_sl_openloop_hyst>
+    <foc_current_ki>179.87</foc_current_ki>
+    <l_temp_fet_start>85</l_temp_fet_start>
+    <sensor_mode>2</sensor_mode>
+    <s_pid_kd>0.0001</s_pid_kd>
+    <hall_table__2>4</hall_table__2>
+    <si_battery_ah>5</si_battery_ah>
+    <motor_quality_bearings>0</motor_quality_bearings>
+    <motor_type>2</motor_type>
+    <l_in_current_min>-60</l_in_current_min>
+    <hall_table__5>1</hall_table__5>
+    <foc_hall_table__0>255</foc_hall_table__0>
+    <m_out_aux_mode>0</m_out_aux_mode>
+    <foc_hall_table__4>65</foc_hall_table__4>
+    <foc_temp_comp>0</foc_temp_comp>
+    <gpd_current_filter_const>0.1</gpd_current_filter_const>
+    <si_battery_cells>12</si_battery_cells>
+    <foc_encoder_cos_gain>1</foc_encoder_cos_gain>
+    <motor_brand>Unnamed</motor_brand>
+    <foc_sensor_mode>2</foc_sensor_mode>
+    <l_abs_current_max>60</l_abs_current_max>
+    <motor_description>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;A motor description can be edited here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</motor_description>
+    <foc_duty_dowmramp_ki>200</foc_duty_dowmramp_ki>
+    <m_sensor_port_mode>0</m_sensor_port_mode>
+    <l_slow_abs_current>1</l_slow_abs_current>
+    <foc_f_sw>20000</foc_f_sw>
+    <m_current_backoff_gain>0.5</m_current_backoff_gain>
+    <m_invert_direction>1</m_invert_direction>
+    <cc_startup_boost_duty>0.01</cc_startup_boost_duty>
+    <foc_pll_ki>30000</foc_pll_ki>
+    <gpd_current_ki>50</gpd_current_ki>
+    <si_battery_type>0</si_battery_type>
+    <motor_quality_magnets>0</motor_quality_magnets>
+    <hall_sl_erpm>2000</hall_sl_erpm>
+    <comm_mode>0</comm_mode>
+    <m_fault_stop_time_ms>500</m_fault_stop_time_ms>
+    <l_watt_max>1.5e+06</l_watt_max>
+    <foc_hall_table__3>164</foc_hall_table__3>
+    <foc_encoder_cos_offset>1.65</foc_encoder_cos_offset>
+    <p_pid_kp>0.03</p_pid_kp>
+    <foc_pll_kp>2000</foc_pll_kp>
+    <l_max_duty>0.95</l_max_duty>
+    <l_watt_min>-1.5e+06</l_watt_min>
+    <foc_observer_gain_slow>0.3</foc_observer_gain_slow>
+    <sl_phase_advance_at_br>0.8</sl_phase_advance_at_br>
+    <cc_gain>0.0046</cc_gain>
+    <foc_dt_us>0.08</foc_dt_us>
+    <l_erpm_start>0.8</l_erpm_start>
+    <motor_quality_construction>0</motor_quality_construction>
+    <sl_min_erpm_cycle_int_limit>1100</sl_min_erpm_cycle_int_limit>
+    <foc_encoder_sincos_filter_constant>0.5</foc_encoder_sincos_filter_constant>
+    <foc_encoder_sin_gain>1</foc_encoder_sin_gain>
+    <motor_weight>0</motor_weight>
+    <foc_current_kp>0.2609</foc_current_kp>
+    <foc_sl_erpm>20000</foc_sl_erpm>
+    <hall_table__1>6</hall_table__1>
+    <s_pid_min_erpm>900</s_pid_min_erpm>
+    <sl_bemf_coupling_k>900</sl_bemf_coupling_k>
+    <p_pid_ki>0</p_pid_ki>
+    <s_pid_kp>0.004</s_pid_kp>
+    <l_current_max>41.79</l_current_max>
+    <sl_cycle_int_rpm_br>80000</sl_cycle_int_rpm_br>
+    <foc_temp_comp_base_temp>25</foc_temp_comp_base_temp>
+    <l_current_max_scale>1</l_current_max_scale>
+    <l_temp_accel_dec>0.15</l_temp_accel_dec>
+    <foc_hall_table__6>31</foc_hall_table__6>
+    <si_motor_poles>30</si_motor_poles>
+    <l_in_current_max>99</l_in_current_max>
+    <l_min_duty>0.005</l_min_duty>
+    <foc_hall_table__5>101</foc_hall_table__5>
+    <hall_table__3>5</hall_table__3>
+    <l_max_erpm>100000</l_max_erpm>
+    <l_max_vin>57</l_max_vin>
+    <foc_encoder_inverted>0</foc_encoder_inverted>
+    <motor_model>Not Specified</motor_model>
+    <foc_hall_table__2>198</foc_hall_table__2>
+    <gpd_buffer_interpol>0</gpd_buffer_interpol>
+    <m_encoder_counts>8192</m_encoder_counts>
+    <foc_encoder_sin_offset>1.65</foc_encoder_sin_offset>
+    <hall_table__0>-1</hall_table__0>
+    <l_max_erpm_fbrake_cc>1500</l_max_erpm_fbrake_cc>
+    <foc_duty_dowmramp_kp>10</foc_duty_dowmramp_kp>
+    <l_max_erpm_fbrake>300</l_max_erpm_fbrake>
+    <foc_observer_gain>2.18e+06</foc_observer_gain>
+    <gpd_current_kp>0.03</gpd_current_kp>
+    <l_battery_cut_start>40.8</l_battery_cut_start>
+    <p_pid_ang_div>1</p_pid_ang_div>
+    <foc_sl_openloop_time>0.1</foc_sl_openloop_time>
+    <motor_sensor_type>1</motor_sensor_type>
+    <l_temp_motor_start>85</l_temp_motor_start>
+    <gpd_buffer_notify_left>200</gpd_buffer_notify_left>
+    <m_ntc_motor_beta>3380</m_ntc_motor_beta>
+    <foc_sl_d_current_factor>0</foc_sl_d_current_factor>
+    <l_min_erpm>-100000</l_min_erpm>
+    <l_temp_motor_end>100</l_temp_motor_end>
+    <cc_ramp_step_max>0.04</cc_ramp_step_max>
+    <foc_motor_l>0.00026088</foc_motor_l>
+    <si_gear_ratio>1</si_gear_ratio>
+    <foc_encoder_offset>180</foc_encoder_offset>
+    <motor_poles>30</motor_poles>
+    <si_wheel_diameter>0.2516</si_wheel_diameter>
+    <cc_min_current>0.3</cc_min_current>
+    <motor_loss_torque>0.03</motor_loss_torque>
+    <sl_cycle_int_limit>423.2</sl_cycle_int_limit>
+    <pwm_mode>1</pwm_mode>
+    <foc_hall_table__7>255</foc_hall_table__7>
+    <hall_table__7>-1</hall_table__7>
+    <l_current_min>-41.79</l_current_min>
+    <s_pid_kd_filter>0.2</s_pid_kd_filter>
+    <m_bldc_f_sw_max>35000</m_bldc_f_sw_max>
+    <m_dc_f_sw>25000</m_dc_f_sw>
+    <hall_table__4>2</hall_table__4>
+    <foc_hall_table__1>133</foc_hall_table__1>
+    <l_min_vin>8</l_min_vin>
+    <s_pid_allow_braking>1</s_pid_allow_braking>
+    <sl_min_erpm>150</sl_min_erpm>
+    <m_drv8301_oc_adj>16</m_drv8301_oc_adj>
+    <m_duty_ramp_step>0.02</m_duty_ramp_step>
+    <motor_quality_description>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Some comments about the motor quality. Images can be added as well.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</motor_quality_description>
+    <p_pid_kd>0.0004</p_pid_kd>
+    <foc_sl_d_current_duty>0</foc_sl_d_current_duty>
+    <foc_current_filter_const>0.1</foc_current_filter_const>
+    <l_current_min_scale>1</l_current_min_scale>
+    <sl_max_fullbreak_current_dir_change>10</sl_max_fullbreak_current_dir_change>
+    <l_temp_fet_end>100</l_temp_fet_end>
+    <m_drv8301_oc_mode>0</m_drv8301_oc_mode>
+    <foc_openloop_rpm>700</foc_openloop_rpm>
+</MCConfiguration>
