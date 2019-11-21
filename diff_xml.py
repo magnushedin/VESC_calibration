@@ -5,8 +5,8 @@ import sys
 
 if len(sys.argv) == 3:
 
-    file1_name = sys.argv[1]
-    file2_name = sys.argv[2]
+    file1_name = sys.argv[2]
+    file2_name = sys.argv[1] # Inverse order for diff to be displayed in correct order
 
     tree1 = ET.parse(file1_name)
     tree2 = ET.parse(file2_name)
